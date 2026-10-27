@@ -32,9 +32,9 @@ npm run dev
 
 - Informe a URL de produção via `NEXT_PUBLIC_SITE_URL=https://seudominio.com.br` antes do build; `http://localhost:3000` é somente valor de desenvolvimento.
 - Confirme a região da inscrição profissional **CRN 7793** e grafia das pós-graduações.
-- Confirme regras do sinal de R$ 200 (abatimento e política de cancelamento), formas de pagamento e os serviços incluídos no pacote de R$ 1.440.
+- Confirme as regras de reserva, formas de pagamento e condições dos serviços diretamente com a clínica, sem publicar preços no site.
 - Confirme a inclusão da bioimpedância InBody 120 em cada modalidade.
-- A marca `AS.` é provisória até a aprovação de uma identidade definitiva.
+- A identidade atual é tipográfica, sem monograma provisório, até aprovação de um logotipo definitivo.
 - Revise a Política de Privacidade antes de publicar, conforme LGPD e infraestrutura escolhida.
 
 Nenhum depoimento de paciente ou promessa de cura foi inventado. Fotografias mantidas originais (somente enquadramento via CSS).
